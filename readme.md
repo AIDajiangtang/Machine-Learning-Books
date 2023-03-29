@@ -1,4 +1,4 @@
-# Machine-learning-Blogs
+# Machine-learning-Books
 关注微信公众号：**人工智能大讲堂**<br />  
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
 
@@ -16,7 +16,7 @@
 [The matrix cookbook](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 
 
-**概率统计博客汇总**<br /> 
+**概率统计书籍汇总**<br /> 
 [Modern Mathematical Statistics with Applications Second Edition](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [Review of Probability Theory](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [概率论导论  翻译版](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
@@ -24,7 +24,7 @@
 
 
 
-**机器学习博客汇总**<br /> 
+**机器学习书籍汇总**<br /> 
 [Pattern Recognition and Machine Learning](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [李航 统计学习方法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [机器学习周志华](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
@@ -34,7 +34,7 @@
 
 
 
-**深度学习博客汇总**<br /> 
+**深度学习书籍汇总**<br /> 
 [Deeplearning深度学习笔记v5.35](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br />
 [Neural Networks and Deep Learning](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [[201810]Deep Reinforcement Learning](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
