@@ -2,6 +2,7 @@
 关注微信公众号：**人工智能大讲堂**<br />  
 <img width="180" src="https://mmbiz.qpic.cn/mmbiz_jpg/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWN5uic1ibz15Q7OCpyHFkibpkichVf9BulRibALcseNcvQ0aPAImRwApTEmIA/0?wx_fmt=jpeg"><br /> 
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
+![image](https://mmbiz.qpic.cn/mmbiz_png/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWNstOhj6dFnkqDXF5wtj0onopw04H4D3JTCf45AsYHowrmmXs55YtItA/0?wx_fmt=png)
 <img width="180" src="https://mmbiz.qpic.cn/mmbiz_png/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWNstOhj6dFnkqDXF5wtj0onopw04H4D3JTCf45AsYHowrmmXs55YtItA/0?wx_fmt=png"><br /> 
 
 **线性代数书籍汇总**<br />
