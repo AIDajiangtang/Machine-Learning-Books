@@ -28,19 +28,19 @@
 **机器学习书籍汇总**<br /> 
 [Pattern Recognition and Machine Learning](./Dajiangtang.md)<br /> 
 [李航 统计学习方法](./Dajiangtang.md)<br /> 
-[机器学习周志华]](./Dajiangtang.md)<br /> 
-[[2014]机器学习个人笔记完整版v5.1]](./Dajiangtang.md)<br /> 
-[[2011]斯坦福大学机器学习课程个人笔]](./Dajiangtang.md)<br /> 
+[机器学习周志华](./Dajiangtang.md)<br /> 
+[[2014]机器学习个人笔记完整版v5.1](./Dajiangtang.md)<br /> 
+[[2011]斯坦福大学机器学习课程个人笔](./Dajiangtang.md)<br /> 
 
 
 
 
 **深度学习书籍汇总**<br /> 
-[Deeplearning深度学习笔记v5.35]](./Dajiangtang.md)<br /> 
-[Neural Networks and Deep Learning]](./Dajiangtang.md)<br /> 
-[[201810]Deep Reinforcement Learning]](./Dajiangtang.md)<br /> 
-[Tensorflow 实战Google深度学习框架]](./Dajiangtang.md)<br /> 
-[斯坦福大学-深度学习基础教程]](./Dajiangtang.md)<br /> 
+[Deeplearning深度学习笔记v5.35](./Dajiangtang.md)<br /> 
+[Neural Networks and Deep Learning](./Dajiangtang.md)<br /> 
+[[201810]Deep Reinforcement Learning](./Dajiangtang.md)<br /> 
+[Tensorflow 实战Google深度学习框架](./Dajiangtang.md)<br /> 
+[斯坦福大学-深度学习基础教程](./Dajiangtang.md)<br /> 
 
 
 
