@@ -5,7 +5,7 @@
  
 
 **线性代数书籍汇总**<br />
-[Applied Multivariate Statistical Analysis Richard Johnson Dean Wichern Sixth Edition](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
+[Applied Multivariate Statistical Analysis Richard Johnson Dean Wichern Sixth Edition](./Dajiangtang.md)<br /> 
 [Elementary Linera Algebra](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [Linear Algebra and its Applications FIFTH edition David C. Lay • Stephen R. Lay • Judi J. McDonald](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
 [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505665&idx=1&sn=da075573b0e2fc5f8a9d2fda2b542426&chksm=c029f206f75e7b105f7728e62a79d83cbf9b5fd63009341f76a9f1c6d796cd7be0d3f6733d64#rd)<br /> 
