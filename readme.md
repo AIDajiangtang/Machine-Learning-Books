@@ -1,6 +1,6 @@
 # Machine-learning-Books
 关注微信公众号：**人工智能大讲堂**<br />  
-<img width="180" src="https://github.com/AIDajiangtang/Machine-Learning-Books/blob/4716133e556097f261d3595c5608822ffae4c144/QR.jpg"><br /> 
+<img width="180" src="https://user-images.githubusercontent.com/AIDajiangtang/Machine-Learning-Books/QR.jpg"><br /> 
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
  
 
